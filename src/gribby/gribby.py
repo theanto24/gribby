@@ -62,5 +62,5 @@ def main():
     print("Date: ", GetDateString(_user_date))
     print("Hour: ", _user_hour)
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
